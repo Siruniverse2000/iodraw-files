@@ -70,6 +70,9 @@
         <mxCell id="vJff6eBBY4cs9BgDbm3I-16" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;需求侧指数&lt;/span&gt;&lt;/li&gt;&lt;li&gt;供给侧指数&lt;/li&gt;&lt;li&gt;宏观环境指数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="260" y="65" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-17" value="总指数" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
