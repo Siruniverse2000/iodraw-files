@@ -94,7 +94,7 @@
         <mxCell id="vJff6eBBY4cs9BgDbm3I-43" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vJff6eBBY4cs9BgDbm3I-48" value="🏛️ 监管平台     &#xa;🏢 商户系统     &#xa;📊 统计局       &#xa;💳 支付流水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-48" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="195" y="465" width="195" height="185" as="geometry" />
         </mxCell>
       </root>
