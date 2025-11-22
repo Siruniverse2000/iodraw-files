@@ -67,8 +67,8 @@
             <mxRectangle width="60" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJff6eBBY4cs9BgDbm3I-24" value="【顶层】指数输出层" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="180" height="140" as="geometry" />
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-24" value="总指数" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-16" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;需求侧指数&lt;/span&gt;&lt;/li&gt;&lt;li&gt;供给侧指数&lt;/li&gt;&lt;li&gt;宏观环境指数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="vJff6eBBY4cs9BgDbm3I-24">
           <mxGeometry x="20" y="40" width="140" height="80" as="geometry" />
