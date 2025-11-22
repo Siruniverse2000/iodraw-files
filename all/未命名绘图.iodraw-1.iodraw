@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-41" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="370" width="120" height="20" as="geometry" />
+          <mxGeometry x="220" y="414" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJff6eBBY4cs9BgDbm3I-42" target="vJff6eBBY4cs9BgDbm3I-41">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-43" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="530" width="120" height="20" as="geometry" />
+          <mxGeometry x="220" y="500" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
