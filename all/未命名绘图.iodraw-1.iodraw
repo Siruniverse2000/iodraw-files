@@ -95,10 +95,10 @@
           <mxGeometry x="235" y="390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-48" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;🏛️ 监管平台&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;🏢 商户系统&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;📊 统计局&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;💳 支付流水&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="195" y="465" width="195" height="185" as="geometry" />
+          <mxGeometry x="192.5" y="465" width="195" height="185" as="geometry" />
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-53" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="465" width="10" height="160" as="geometry" />
+          <mxGeometry x="235" y="465" width="10" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
