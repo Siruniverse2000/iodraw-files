@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="746" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,8 +94,20 @@
         <mxCell id="vJff6eBBY4cs9BgDbm3I-43" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vJff6eBBY4cs9BgDbm3I-48" value="🏛️ 监管平台&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;🏢 商户系统&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;📊 统计局&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;💳 支付流水&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-48" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;🏛️ 监管平台&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;🏢 商户系统&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;📊 统计局&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;💳 支付流水&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="195" y="465" width="195" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-49" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410.00000000000045" y="270" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-50" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="vJff6eBBY4cs9BgDbm3I-49">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-51" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="vJff6eBBY4cs9BgDbm3I-49">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-52" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="vJff6eBBY4cs9BgDbm3I-49">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
