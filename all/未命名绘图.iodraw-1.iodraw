@@ -76,6 +76,9 @@
         <mxCell id="vJff6eBBY4cs9BgDbm3I-18" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="359" width="140" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJff6eBBY4cs9BgDbm3I-41" target="vJff6eBBY4cs9BgDbm3I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-41" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="370" width="120" height="40" as="geometry" />
         </mxCell>
@@ -84,6 +87,12 @@
         </mxCell>
         <mxCell id="vJff6eBBY4cs9BgDbm3I-43" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="540" as="sourcePoint" />
+            <mxPoint x="610" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
