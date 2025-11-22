@@ -67,8 +67,8 @@
             <mxRectangle width="60" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJff6eBBY4cs9BgDbm3I-16" value="&lt;ul&gt;&lt;li&gt;总指数&lt;/li&gt;&lt;li&gt;需求侧指数&lt;/li&gt;&lt;li&gt;供给侧指数&lt;/li&gt;&lt;li&gt;宏观环境指数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="280" y="65" width="150" height="80" as="geometry" />
+        <mxCell id="vJff6eBBY4cs9BgDbm3I-16" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;需求侧指数&lt;/span&gt;&lt;/li&gt;&lt;li&gt;供给侧指数&lt;/li&gt;&lt;li&gt;宏观环境指数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="260" y="65" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
